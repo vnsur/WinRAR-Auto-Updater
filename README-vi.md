@@ -81,7 +81,6 @@
 - 💻 **x64** (64-bit) - Ưu tiên
 - 💻 **x32** (32-bit) - Tự động phát hiện
 
-*[Nội dung tiếp theo tương tự như README chính nhưng bằng tiếng Việt]*
 
 ---
 
