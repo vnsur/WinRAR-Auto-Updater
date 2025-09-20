@@ -8,6 +8,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 **Automatically update WinRAR to the latest version intelligently and efficiently**
+<br/>
 **Tự động cập nhật WinRAR đến phiên bản mới nhất một cách thông minh và hiệu quả**
 
 </div>
